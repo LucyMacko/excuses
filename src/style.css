@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.main-body {
+  display: flex;
+  margin: 0 auto;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
